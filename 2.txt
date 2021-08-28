@@ -1,0 +1,11 @@
+public class{
+   public static void main(String[] args){
+       int = 
+           x1;
+           x2;
+           y1;
+           y2;
+        double distancia = Match.sqrt(Match.pow(x2 - x1, 3) + Match.pow(y2 - y1, 3));
+           System.out.print("Distancia:" + double distancia);
+    }
+}
